@@ -25,6 +25,58 @@
     ],
     "updatedAt": "2026-10-17T12:04:19.807Z"
   },
+  "260816": {
+    "studentId": "260816",
+    "studentName": "Aryan K.",
+    "balance": 50,
+    "demoBalance": 50,
+    "currency": "INR",
+    "isSandbox": true,
+    "gatewayStatus": "SANDBOX_MOCK_PROVIDER",
+    "transactions": [
+      {
+        "id": "TXN-INIT-001",
+        "type": "CREDIT",
+        "category": "TOPUP_UPI",
+        "amount": 50,
+        "balanceAfter": 50,
+        "status": "SUCCESS",
+        "referenceId": "INIT-WELCOME-PASS",
+        "idempotencyKey": "INIT-WELCOME-PASS",
+        "description": "Campus Semester Mobility Welcome Credit (Sandbox)",
+        "paymentMode": "DEMO_SANDBOX_UPI",
+        "isSandbox": true,
+        "createdAt": "2026-10-19T01:17:55.952Z"
+      }
+    ],
+    "updatedAt": "2026-10-21T01:17:55.952Z"
+  },
+  "264071": {
+    "studentId": "264071",
+    "studentName": "Aryan K.",
+    "balance": 50,
+    "demoBalance": 50,
+    "currency": "INR",
+    "isSandbox": true,
+    "gatewayStatus": "SANDBOX_MOCK_PROVIDER",
+    "transactions": [
+      {
+        "id": "TXN-INIT-001",
+        "type": "CREDIT",
+        "category": "TOPUP_UPI",
+        "amount": 50,
+        "balanceAfter": 50,
+        "status": "SUCCESS",
+        "referenceId": "INIT-WELCOME-PASS",
+        "idempotencyKey": "INIT-WELCOME-PASS",
+        "description": "Campus Semester Mobility Welcome Credit (Sandbox)",
+        "paymentMode": "DEMO_SANDBOX_UPI",
+        "isSandbox": true,
+        "createdAt": "2026-10-19T01:17:57.952Z"
+      }
+    ],
+    "updatedAt": "2026-10-21T01:17:57.952Z"
+  },
   "iitb-22b0814": {
     "studentId": "IITB-22B0814",
     "studentName": "Aryan K.",

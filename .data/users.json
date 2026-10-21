@@ -9,7 +9,7 @@
     "department": "Computer Engineering",
     "semester": "6th Semester",
     "createdAt": "2026-10-17T12:01:07.826Z",
-    "updatedAt": "2026-10-17T13:59:33.726Z",
+    "updatedAt": "2026-10-21T01:16:59.995Z",
     "isActive": true
   },
   {
@@ -22,7 +22,7 @@
     "department": "Information Technology",
     "semester": "6th Semester",
     "createdAt": "2026-10-17T12:01:07.826Z",
-    "updatedAt": "2026-10-17T13:59:33.726Z",
+    "updatedAt": "2026-10-21T01:16:59.995Z",
     "isActive": true
   },
   {
@@ -35,7 +35,7 @@
     "department": "Mechanical Engineering",
     "semester": "6th Semester",
     "createdAt": "2026-10-17T12:01:07.826Z",
-    "updatedAt": "2026-10-17T13:59:33.726Z",
+    "updatedAt": "2026-10-21T01:16:59.995Z",
     "isActive": true
   },
   {
@@ -49,6 +49,6 @@
     "semester": "Mobility Manager",
     "isActive": true,
     "createdAt": "2026-10-17T12:49:35.487Z",
-    "updatedAt": "2026-10-17T13:59:33.726Z"
+    "updatedAt": "2026-10-21T01:16:59.995Z"
   }
 ]

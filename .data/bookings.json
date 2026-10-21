@@ -1063,5 +1063,24 @@
       "reviewedAt": "2026-10-17T14:00:30.335Z",
       "action": "APPROVE"
     }
+  },
+  {
+    "id": "BK-20261021-5888",
+    "studentId": "260691",
+    "studentName": "Samir Yadav",
+    "date": "2026-10-21",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "startIso": "2026-10-21T17:00:00+05:30",
+    "endIso": "2026-10-21T19:00:00+05:30",
+    "durationHours": 2,
+    "hourlyRate": 25,
+    "totalPrice": 50,
+    "isSameDay": true,
+    "cyclePreference": "ANY",
+    "cycleName": "Any Available Campus Cycle",
+    "status": "PENDING_APPROVAL",
+    "createdAt": "2026-10-21T01:17:36.712Z",
+    "updatedAt": "2026-10-21T01:17:36.712Z"
   }
 ]
