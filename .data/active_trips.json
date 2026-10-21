@@ -1,0 +1,3020 @@
+{
+  "iitb-verify-telemetry_#vc-test-1792223336297": {
+    "rideId": "#VC-TEST-1792223336297",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "batteryPercent": 94,
+      "rangeKm": 32,
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Solenoid: Engaged (Solar Backed)"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792222232645,
+    "checkOutTimeText": "01:00 PM",
+    "expectedReturnTimeMs": 1792226936298,
+    "expectedReturnTimeText": "2:18:56 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792222232645,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792222532645,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792222952645,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792223336645,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792223396298,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792223516298,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792223636298,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792223736298,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792223736298,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T07:30:32.645Z",
+    "updatedAt": "2026-10-17T07:48:56.769Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792223822892": {
+    "rideId": "#VC-TEST-1792223822892",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "batteryPercent": 94,
+      "rangeKm": 32,
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Solenoid: Engaged (Solar Backed)"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792222719112,
+    "checkOutTimeText": "01:08 PM",
+    "expectedReturnTimeMs": 1792227422892,
+    "expectedReturnTimeText": "2:27:02 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792222719112,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792223019112,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792223439112,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792223823112,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792223882892,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792224002892,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792224122892,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792224222892,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792224222892,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T07:38:39.112Z",
+    "updatedAt": "2026-10-17T07:57:03.164Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792224730277": {
+    "rideId": "#VC-TEST-1792224730277",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "batteryPercent": 94,
+      "rangeKm": 32,
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Solenoid: Engaged (Solar Backed)"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792223626317,
+    "checkOutTimeText": "01:23 PM",
+    "expectedReturnTimeMs": 1792228330278,
+    "expectedReturnTimeText": "2:42:10 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792223626317,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792223926317,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792224346317,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792224730317,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792224790278,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792224910278,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792225030278,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792225130278,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792225130278,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T07:53:46.317Z",
+    "updatedAt": "2026-10-17T08:12:10.364Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792225233733": {
+    "rideId": "#VC-TEST-1792225233733",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792224130030,
+    "checkOutTimeText": "01:32 PM",
+    "expectedReturnTimeMs": 1792228833734,
+    "expectedReturnTimeText": "2:50:33 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792224130030,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792224430030,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792224850030,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792225234030,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792225293734,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792225413734,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792225533734,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792225633734,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792225633734,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T08:02:10.030Z",
+    "updatedAt": "2026-10-17T08:20:34.090Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792225551819": {
+    "rideId": "#VC-TEST-1792225551819",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792224447852,
+    "checkOutTimeText": "01:37 PM",
+    "expectedReturnTimeMs": 1792229151820,
+    "expectedReturnTimeText": "2:55:51 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792224447852,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792224747852,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792225167852,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792225551852,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792225611820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792225731820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792225851820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792225951820,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792225951820,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T08:07:27.852Z",
+    "updatedAt": "2026-10-17T08:25:51.920Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792226124008": {
+    "rideId": "#VC-TEST-1792226124008",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792225020050,
+    "checkOutTimeText": "01:47 PM",
+    "expectedReturnTimeMs": 1792229724009,
+    "expectedReturnTimeText": "3:05:24 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792225020050,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792225320050,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792225740050,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792226124050,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792226184009,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792226304009,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792226424009,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792226524009,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792226524009,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T08:17:00.050Z",
+    "updatedAt": "2026-10-17T08:35:24.100Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792226745752": {
+    "rideId": "#VC-TEST-1792226745752",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792225641790,
+    "checkOutTimeText": "01:57 PM",
+    "expectedReturnTimeMs": 1792230345753,
+    "expectedReturnTimeText": "3:15:45 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792225641790,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792225941790,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792226361790,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792226745790,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792226805753,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792226925753,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792227045753,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792227145753,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792227145753,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T08:27:21.790Z",
+    "updatedAt": "2026-10-17T08:45:45.842Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792227449090": {
+    "rideId": "#VC-TEST-1792227449090",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "MT-0408",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Dock 08",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792226345134,
+    "checkOutTimeText": "02:09 PM",
+    "expectedReturnTimeMs": 1792231049091,
+    "expectedReturnTimeText": "3:27:29 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792226345134,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792226645134,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792227065134,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792227449134,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792227509091,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792227629091,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792227749091,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792227849091,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792227849091,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T08:39:05.134Z",
+    "updatedAt": "2026-10-17T08:57:29.208Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792229035789": {
+    "rideId": "#VC-TEST-1792229035789",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792227931829,
+    "checkOutTimeText": "02:35 PM",
+    "expectedReturnTimeMs": 1792232635790,
+    "expectedReturnTimeText": "3:53:55 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792227931829,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792228231829,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792228651829,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792229035829,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792229095790,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792229215790,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792229335790,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792229435790,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792229435790,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T09:05:31.829Z",
+    "updatedAt": "2026-10-17T09:23:55.886Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792229230819": {
+    "rideId": "#VC-TEST-1792229230819",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 10,
+      "rateSubtext": "₹10/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792228126859,
+    "checkOutTimeText": "02:38 PM",
+    "expectedReturnTimeMs": 1792232830820,
+    "expectedReturnTimeText": "3:57:10 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792228126859,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792228426859,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792228846859,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792229230859,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792229290820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792229410820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792229530820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792229630820,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792229630820,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T09:08:46.859Z",
+    "updatedAt": "2026-10-17T09:27:10.919Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792230557818": {
+    "rideId": "#VC-TEST-1792230557818",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792229453855,
+    "checkOutTimeText": "03:00 PM",
+    "expectedReturnTimeMs": 1792234157820,
+    "expectedReturnTimeText": "4:19:17 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792229453855,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792229753855,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792230173855,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792230557855,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792230617820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792230737820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792230857820,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792230957820,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792230957820,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T09:30:53.855Z",
+    "updatedAt": "2026-10-17T09:49:17.912Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792232083639": {
+    "rideId": "#VC-TEST-1792232083639",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792230979686,
+    "checkOutTimeText": "03:26 PM",
+    "expectedReturnTimeMs": 1792235683641,
+    "expectedReturnTimeText": "4:44:43 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792230979686,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792231279686,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792231699686,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792232083686,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792232143641,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792232263641,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792232383641,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792232483641,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792232483641,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T09:56:19.686Z",
+    "updatedAt": "2026-10-17T10:14:43.749Z"
+  },
+  "iitb-22b0814_#vc-9921": {
+    "rideId": "#VC-9921",
+    "bookingId": "BK-20261017-9921",
+    "studentId": "IITB-22B0814",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792232406546,
+    "checkOutTimeText": "03:50 PM",
+    "expectedReturnTimeMs": 1792236006546,
+    "expectedReturnTimeText": "04:50 PM",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792232406546,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792232706546,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792233126546,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792233510546,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6082,
+      "lng": 73.8756,
+      "xPercent": 58,
+      "yPercent": 32,
+      "accuracy": 4.8,
+      "speed": 16.4,
+      "timestamp": 1792233510546,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 2.8,
+    "currentSpeedKmH": 16.4,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T10:20:06.546Z",
+    "updatedAt": "2026-10-17T10:38:30.547Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792235381864": {
+    "rideId": "#VC-TEST-1792235381864",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792234277918,
+    "checkOutTimeText": "04:21 PM",
+    "expectedReturnTimeMs": 1792238981865,
+    "expectedReturnTimeText": "5:39:41 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792234277918,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792234577918,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792234997918,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792235381918,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792235441865,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792235561865,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792235681865,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792235781865,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792235781865,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T10:51:17.918Z",
+    "updatedAt": "2026-10-17T11:09:42.005Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792239594955": {
+    "rideId": "#VC-TEST-1792239594955",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792238491334,
+    "checkOutTimeText": "05:31 PM",
+    "expectedReturnTimeMs": 1792243194955,
+    "expectedReturnTimeText": "6:49:54 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792238491334,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792238791334,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792239211334,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792239595334,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792239654955,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792239774955,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792239894955,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792239994955,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792239994955,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T12:01:31.334Z",
+    "updatedAt": "2026-10-17T12:19:55.391Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792242337245": {
+    "rideId": "#VC-TEST-1792242337245",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792241233285,
+    "checkOutTimeText": "06:17 PM",
+    "expectedReturnTimeMs": 1792245937246,
+    "expectedReturnTimeText": "7:35:37 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792241233285,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792241533285,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792241953285,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792242337285,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792242397246,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792242517246,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792242637246,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792242737246,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792242737246,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T12:47:13.285Z",
+    "updatedAt": "2026-10-17T13:05:37.352Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792243061804": {
+    "rideId": "#VC-TEST-1792243061804",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792241957851,
+    "checkOutTimeText": "06:29 PM",
+    "expectedReturnTimeMs": 1792246661805,
+    "expectedReturnTimeText": "7:47:41 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792241957851,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792242257851,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792242677851,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792243061851,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792243121805,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792243241805,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792243361805,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792243461805,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792243461805,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T12:59:17.851Z",
+    "updatedAt": "2026-10-17T13:17:41.930Z"
+  },
+  "test-geo_#vc-test-geo": {
+    "rideId": "#VC-TEST-GEO",
+    "bookingId": "BK-20261017-9921",
+    "studentId": "TEST-GEO",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792242821006,
+    "checkOutTimeText": "06:43 PM",
+    "expectedReturnTimeMs": 1792246421006,
+    "expectedReturnTimeText": "07:43 PM",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792242821006,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792243121006,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792243541006,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792243925006,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.875,
+        "accuracy": 4.5,
+        "timestamp": 1792243924994,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.875,
+        "accuracy": 4.5,
+        "timestamp": 1792244583232,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.875,
+        "accuracy": 4.5,
+        "timestamp": 1792244700828,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.875,
+        "accuracy": 4.5,
+        "timestamp": 1792244796187,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.875,
+        "accuracy": 4.5,
+        "timestamp": 1792245624018,
+        "isRealDeviceGps": true
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6075,
+      "lng": 73.875,
+      "accuracy": 4.5,
+      "timestamp": 1792245624018,
+      "isRealDeviceGps": true
+    },
+    "distanceKm": 2.8,
+    "currentSpeedKmH": 16.4,
+    "isDemoMode": false,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T13:13:41.006Z",
+    "updatedAt": "2026-10-17T14:00:24.039Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792243930411": {
+    "rideId": "#VC-TEST-1792243930411",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792242826451,
+    "checkOutTimeText": "06:43 PM",
+    "expectedReturnTimeMs": 1792247530412,
+    "expectedReturnTimeText": "8:02:10 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792242826451,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792243126451,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792243546451,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792243930451,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792243990412,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792244110412,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792244230412,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792244330412,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792244330412,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T13:13:46.451Z",
+    "updatedAt": "2026-10-17T13:32:10.523Z"
+  },
+  "iitb-verify-telemetry_#vc-test-1792244827277": {
+    "rideId": "#VC-TEST-1792244827277",
+    "bookingId": "BK-TEST-7712",
+    "studentId": "IITB-VERIFY-TELEMETRY",
+    "studentName": "Aryan K.",
+    "bike": {
+      "id": "trail-gravel-04",
+      "name": "Mountain Bike #04",
+      "series": "TrailCommuter Series",
+      "modelCode": "CC-004",
+      "category": "trail",
+      "categoryLabel": "Trail & Gravel",
+      "conditionBadge": "Inspected today 08:30 AM",
+      "conditionType": "inspected",
+      "dockNumber": "Bay 04",
+      "distanceMeters": 20,
+      "distanceWalkText": "20m away",
+      "hourlyRate": 25,
+      "rateSubtext": "₹25/hr Flat Rate",
+      "specs": {
+        "motorOrGear": "Dual Suspension • Hill Climber Ratios",
+        "features": [
+          "Ridge & Slope Grade",
+          "Heavy Duty Chains",
+          "Disc Brakes",
+          "All-Terrain Knobby"
+        ],
+        "topSpeed": "25 km/h Campus Cap",
+        "tirePressurePsi": 52,
+        "sensorStatus": "Mechanical Stand Lock: Secured"
+      },
+      "image": "/bikes/trail-gravel.jpg",
+      "tags": [
+        "Ridge & Slope Grade",
+        "Heavy Duty Chains"
+      ]
+    },
+    "startStationName": "North Quad Hub #04",
+    "startStationCoords": {
+      "x": 42,
+      "y": 82
+    },
+    "targetStationName": "SAC Central Hub (Bay A03)",
+    "targetStationCoords": {
+      "x": 78,
+      "y": 22
+    },
+    "checkOutTimeMs": 1792243723333,
+    "checkOutTimeText": "06:58 PM",
+    "expectedReturnTimeMs": 1792248427280,
+    "expectedReturnTimeText": "8:17:07 pm",
+    "bookedDurationHours": 1,
+    "routeTrace": [
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 6,
+        "speed": 0,
+        "timestamp": 1792243723333,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6074,
+        "lng": 73.8748,
+        "xPercent": 46,
+        "yPercent": 62,
+        "accuracy": 5.5,
+        "speed": 14.8,
+        "timestamp": 1792244023333,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6078,
+        "lng": 73.8752,
+        "xPercent": 52,
+        "yPercent": 45,
+        "accuracy": 5,
+        "speed": 16.2,
+        "timestamp": 1792244443333,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6082,
+        "lng": 73.8756,
+        "xPercent": 58,
+        "yPercent": 32,
+        "accuracy": 4.8,
+        "speed": 16.4,
+        "timestamp": 1792244827333,
+        "isRealDeviceGps": false
+      },
+      {
+        "lat": 18.6071,
+        "lng": 73.8745,
+        "xPercent": 42,
+        "yPercent": 78,
+        "accuracy": 4.5,
+        "speed": 12,
+        "timestamp": 1792244887280,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6075,
+        "lng": 73.8749,
+        "xPercent": 48,
+        "yPercent": 58,
+        "accuracy": 4,
+        "speed": 16.5,
+        "timestamp": 1792245007280,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6081,
+        "lng": 73.8755,
+        "xPercent": 56,
+        "yPercent": 42,
+        "accuracy": 3.8,
+        "speed": 16.2,
+        "timestamp": 1792245127280,
+        "isRealDeviceGps": true
+      },
+      {
+        "lat": 18.6083,
+        "lng": 73.8758,
+        "xPercent": 61,
+        "yPercent": 33,
+        "accuracy": 5,
+        "speed": 15,
+        "timestamp": 1792245227280,
+        "isRealDeviceGps": false
+      }
+    ],
+    "currentLocation": {
+      "lat": 18.6083,
+      "lng": 73.8758,
+      "xPercent": 61,
+      "yPercent": 33,
+      "accuracy": 5,
+      "speed": 15,
+      "timestamp": 1792245227280,
+      "isRealDeviceGps": false
+    },
+    "distanceKm": 3.6,
+    "currentSpeedKmH": 15,
+    "isDemoMode": true,
+    "status": "ACTIVE_ON_TRACK",
+    "isOverdue": false,
+    "overdueSeconds": 0,
+    "createdAt": "2026-10-17T13:28:43.333Z",
+    "updatedAt": "2026-10-17T13:47:07.417Z"
+  }
+}

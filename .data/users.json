@@ -1,0 +1,54 @@
+[
+  {
+    "id": "260691",
+    "userId": "260691",
+    "name": "Samir Yadav",
+    "email": "260691@aitpune.edu.in",
+    "passwordHash": "pbkdf2$100000$ae3d5eafd263b55cd01a6eabaa6a3d81$43bd817bf4ba1bc5cea3748e29ff7a6a20826af57693d212a8b88c0d24ad04b9741e5277567a02dd21777e9e659ef8cf2f67180ce561b8eab292b05d262407a9",
+    "role": "student",
+    "department": "Computer Engineering",
+    "semester": "6th Semester",
+    "createdAt": "2026-10-17T12:01:07.826Z",
+    "updatedAt": "2026-10-17T13:59:33.726Z",
+    "isActive": true
+  },
+  {
+    "id": "260816",
+    "userId": "260816",
+    "name": "Kirtika Chaudhary",
+    "email": "260816@aitpune.edu.in",
+    "passwordHash": "pbkdf2$100000$64a0602355ffc3826f6269332875bb5a$94f26a8a0e8c0b1acd9727a02fb7e2038a610cfc472a0a9a6eba82f368853e989f91023ca0d559288d2259cd9bb83240989776e8468d5ae8895074d4fdca1874",
+    "role": "student",
+    "department": "Information Technology",
+    "semester": "6th Semester",
+    "createdAt": "2026-10-17T12:01:07.826Z",
+    "updatedAt": "2026-10-17T13:59:33.726Z",
+    "isActive": true
+  },
+  {
+    "id": "264071",
+    "userId": "264071",
+    "name": "Sumit Kumar",
+    "email": "264071@aitpune.edu.in",
+    "passwordHash": "pbkdf2$100000$a2743839d2d56f2b70062fc519fde114$3bbf5e6ccb1ff5f7be36df3e22d9a396fa9496660ebdfd07b877f2288b6f460f2e1a5092bc13de1b509bae2c064b1f27f511f9c5db1e52b97dc7b54ad8b2c136",
+    "role": "student",
+    "department": "Mechanical Engineering",
+    "semester": "6th Semester",
+    "createdAt": "2026-10-17T12:01:07.826Z",
+    "updatedAt": "2026-10-17T13:59:33.726Z",
+    "isActive": true
+  },
+  {
+    "id": "Mohit Sharma",
+    "userId": "Mohit Sharma",
+    "name": "Mohit Sharma",
+    "email": "mohit.sharma@aitpune.edu.in",
+    "passwordHash": "pbkdf2$100000$7b58cafc3056062ae43a0118132f96c5$345d105e217cf7f542431739c904dd09c30ed57c633aa21e3afc32cc7a953593ad4f6028c92bc7f57d8ca96b18613568383ecc8ecc7372bb223e209f5ba04035",
+    "role": "admin",
+    "department": "Fleet Operations & Administration",
+    "semester": "Mobility Manager",
+    "isActive": true,
+    "createdAt": "2026-10-17T12:49:35.487Z",
+    "updatedAt": "2026-10-17T13:59:33.726Z"
+  }
+]

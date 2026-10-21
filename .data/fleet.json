@@ -1,0 +1,251 @@
+[
+  {
+    "id": "e-commuter-07",
+    "name": "Campus Commuter #07",
+    "modelCode": "CC-007",
+    "dockNumber": "Bay 07",
+    "isMaintenance": false
+  },
+  {
+    "id": "city-cruiser-12",
+    "name": "City Cruiser #12",
+    "modelCode": "CC-012",
+    "dockNumber": "Bay 12",
+    "isMaintenance": false
+  },
+  {
+    "id": "trail-gravel-04",
+    "name": "Mountain Bike #04",
+    "modelCode": "CC-004",
+    "dockNumber": "Bay 04",
+    "isMaintenance": true,
+    "maintenanceReason": "Scheduled brake cable service & safety inspection"
+  },
+  {
+    "id": "step-thru-09",
+    "name": "Campus Step-Thru #09",
+    "modelCode": "CC-009",
+    "dockNumber": "Bay 09",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-001",
+    "name": "Classic Commuter #001",
+    "modelCode": "CC-001",
+    "dockNumber": "Bay 01",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-002",
+    "name": "Classic Commuter #002",
+    "modelCode": "CC-002",
+    "dockNumber": "Bay 02",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-003",
+    "name": "Classic Commuter #003",
+    "modelCode": "CC-003",
+    "dockNumber": "Bay 03",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-005",
+    "name": "Classic Commuter #005",
+    "modelCode": "CC-005",
+    "dockNumber": "Bay 05",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-006",
+    "name": "Classic Commuter #006",
+    "modelCode": "CC-006",
+    "dockNumber": "Bay 06",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-008",
+    "name": "Classic Commuter #008",
+    "modelCode": "CC-008",
+    "dockNumber": "Bay 08",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-010",
+    "name": "Classic Commuter #010",
+    "modelCode": "CC-010",
+    "dockNumber": "Bay 10",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-011",
+    "name": "Classic Commuter #011",
+    "modelCode": "CC-011",
+    "dockNumber": "Bay 11",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-013",
+    "name": "City Cruiser #013",
+    "modelCode": "CC-013",
+    "dockNumber": "Bay 13",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-014",
+    "name": "City Cruiser #014",
+    "modelCode": "CC-014",
+    "dockNumber": "Bay 14",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-015",
+    "name": "City Cruiser #015",
+    "modelCode": "CC-015",
+    "dockNumber": "Bay 15",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-016",
+    "name": "City Cruiser #016",
+    "modelCode": "CC-016",
+    "dockNumber": "Bay 16",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-017",
+    "name": "City Cruiser #017",
+    "modelCode": "CC-017",
+    "dockNumber": "Bay 17",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-018",
+    "name": "City Cruiser #018",
+    "modelCode": "CC-018",
+    "dockNumber": "Bay 18",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-019",
+    "name": "City Cruiser #019",
+    "modelCode": "CC-019",
+    "dockNumber": "Bay 19",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-020",
+    "name": "City Cruiser #020",
+    "modelCode": "CC-020",
+    "dockNumber": "Bay 20",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-021",
+    "name": "City Cruiser #021",
+    "modelCode": "CC-021",
+    "dockNumber": "Bay 21",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-022",
+    "name": "City Cruiser #022",
+    "modelCode": "CC-022",
+    "dockNumber": "Bay 22",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-023",
+    "name": "Trail & Gravel #023",
+    "modelCode": "CC-023",
+    "dockNumber": "Bay 23",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-024",
+    "name": "Trail & Gravel #024",
+    "modelCode": "CC-024",
+    "dockNumber": "Bay 24",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-025",
+    "name": "Trail & Gravel #025",
+    "modelCode": "CC-025",
+    "dockNumber": "Bay 25",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-026",
+    "name": "Trail & Gravel #026",
+    "modelCode": "CC-026",
+    "dockNumber": "Bay 26",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-027",
+    "name": "Trail & Gravel #027",
+    "modelCode": "CC-027",
+    "dockNumber": "Bay 27",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-028",
+    "name": "Trail & Gravel #028",
+    "modelCode": "CC-028",
+    "dockNumber": "Bay 28",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-029",
+    "name": "Trail & Gravel #029",
+    "modelCode": "CC-029",
+    "dockNumber": "Bay 29",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-030",
+    "name": "Trail & Gravel #030",
+    "modelCode": "CC-030",
+    "dockNumber": "Bay 30",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-031",
+    "name": "Step-Thru Comfort #031",
+    "modelCode": "CC-031",
+    "dockNumber": "Bay 31",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-032",
+    "name": "Step-Thru Comfort #032",
+    "modelCode": "CC-032",
+    "dockNumber": "Bay 32",
+    "isMaintenance": false
+  },
+  {
+    "id": "CC-033",
+    "name": "Step-Thru Comfort #033",
+    "modelCode": "CC-033",
+    "dockNumber": "Bay 33",
+    "isMaintenance": true,
+    "maintenanceReason": "Scheduled brake cable service & safety inspection"
+  },
+  {
+    "id": "CC-034",
+    "name": "Step-Thru Comfort #034",
+    "modelCode": "CC-034",
+    "dockNumber": "Bay 34",
+    "isMaintenance": true,
+    "maintenanceReason": "Scheduled brake cable service & safety inspection"
+  },
+  {
+    "id": "CC-035",
+    "name": "Step-Thru Comfort #035",
+    "modelCode": "CC-035",
+    "dockNumber": "Bay 35",
+    "isMaintenance": true,
+    "maintenanceReason": "Scheduled brake cable service & safety inspection"
+  }
+]
